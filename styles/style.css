@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.head-part-container {
+    position: relative;
+    text-align: right;
+}
+
+.head-img {
+    width: 100%;
+}
+
+.intro-text {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    /* padding: 500px 200px; */
+    margin: 200px;
+    padding: 80px 20px;
+
+}
+
+.primary-heading-size {
+    font-weight: bold;
+    font-size: 80px;
+    padding-bottom: 20px;
+}
+
+.text-area {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.primary-btn {
+    font-size: 25px;
+    padding: 20px;
+    background-color: rgb(238, 103, 54);
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
